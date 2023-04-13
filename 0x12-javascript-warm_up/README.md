@@ -1,6 +1,6 @@
 # 0x12-javascript-warm_up
 ![javascript pix](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ1zIOrdlPtJS8Uw9ZInEtd_v_6Y-3ut006Q&usqp=CAU)
-## The folowing were treatesd in this course:
+## The folowing were treated in this course:
 + 
     * Why JavaScript programming is amazing
     * How to run a JavaScript script
