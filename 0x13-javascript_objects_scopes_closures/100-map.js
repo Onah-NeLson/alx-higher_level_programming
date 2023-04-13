@@ -1,5 +1,4 @@
 #!/usr/bin/node
-// hands on javascript objs
 
 const list = require('./100-data').list;
 
