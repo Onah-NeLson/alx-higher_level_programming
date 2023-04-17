@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-""" Intent of this script is to list all states from the database hbtn_0e_0_usa """
+"""
+Intent of this script is to list all states
+from the database hbtn_0e_0_usa
+"""
 import MySQLdb
 import sys
 
