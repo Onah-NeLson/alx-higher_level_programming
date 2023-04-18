@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-The intent of this script, is to prints the State object
+The intent of this script,is to print the State object
 with the name passed as argument from the database
 """
 import sys
